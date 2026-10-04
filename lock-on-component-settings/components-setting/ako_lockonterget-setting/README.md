@@ -1,3 +1,7 @@
+---
+icon: flatbread-stuffed
+---
+
 # Ako\_LockOnTerget setting
 
 > #### <mark style="color:$success;">**`Ako_LockOnTarget`**</mark> Actor Component contains the main settings that control how the Lock-On Target system behaves on the player character.
@@ -6,21 +10,19 @@
 
 These settings define the system's overall targeting
 
-— The settings are divided into <mark style="color:$success;">**four**</mark> main sections:
+— The settings are divided into <mark style="color:$success;">**three**</mark> main sections:
 
-#### 1- Character Setup
+#### <mark style="color:red;">1- Character Setup</mark>
 
+Defines the Camera and Spring Arm used by the Lock-On system on your character.
 
+#### <mark style="color:red;">2- Targeting Settings</mark>
 
-#### 2- Targeting Settings
+Controls how the Lock-On system detects, selects, switches between, and maintains targets.
 
+#### <mark style="color:red;">3- Combat Targeting Settings</mark>
 
-
-#### 3- Combat Targeting Settings
-
-
-
-#### 4- Advanced Settings
+Controls Lock-On behavior during combat, including target switching after death and attack targeting using Motion Warping.
 
 
 

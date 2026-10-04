@@ -20,12 +20,12 @@ The system is designed so that the **target actor defines what can be targeted**
 
 New to the system? Follow this path:
 
-1. [Introduction](Ako-Lock-On-Target-Documentation/getting-started/introduction.md)
-2. [Installation & Project Setup](Ako-Lock-On-Target-Documentation/getting-started/installation.md)
-3. [Your First Target](Ako-Lock-On-Target-Documentation/getting-started/first-target.md)
-4. [Target Configuration](Ako-Lock-On-Target-Documentation/target-configuration/target-point-modes.md)
-5. [Target UI Data Assets](Ako-Lock-On-Target-Documentation/ui/data-assets.md)
-6. [Choose a UI Workflow](Ako-Lock-On-Target-Documentation/ui/custom-widget.md)
+1. [Introduction](/broken/pages/aa7wdxTB61rSMFQzGXXB)
+2. [Installation & Project Setup](/broken/pages/MXFNaaMDeNpvHwOqSW97)
+3. [Your First Target](/broken/pages/HPU8llUIFTdRoR3JIKL8)
+4. [Target Configuration](/broken/pages/S0y0ubuoQ8X2tz4ioozy)
+5. [Target UI Data Assets](/broken/pages/hkmobgvSXBUxznltKA6x)
+6. [Choose a UI Workflow](/broken/pages/fXOsq7SyKYraXRyVu2QR)
 
 ## System at a glance
 

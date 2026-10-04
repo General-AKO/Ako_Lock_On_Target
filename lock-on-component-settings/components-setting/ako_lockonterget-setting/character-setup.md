@@ -1,3 +1,7 @@
+---
+icon: meetup
+---
+
 # Character Setup
 
 #### The <mark style="color:orange;">**Character Setup**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">section</mark> contains two settings that allow the Lock-On Target system to identify which **Camera** and **Spring Arm** it should use on your character.
