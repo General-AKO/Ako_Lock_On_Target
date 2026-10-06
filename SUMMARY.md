@@ -1,12 +1,11 @@
 # Table of contents
 
 * [ako Lock On Target](README.md)
-* [Setting Up the PLUGIN](setting-up-the-plugin.md)
 
 ## Setting Up the PLUGIN
 
-* [FIRST AND LAST STEP](setting-up-the-plugin-1/first-and-last-step.md)
-* [plugin input](setting-up-the-plugin-1/plugin-input.md)
+* [FIRST AND LAST STEP](setting-up-the-plugin/first-and-last-step.md)
+* [plugin input](setting-up-the-plugin/plugin-input.md)
 
 ## system logic
 
