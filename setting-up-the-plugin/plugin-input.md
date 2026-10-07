@@ -46,3 +46,7 @@ In other words, the same Input is used to both **Lock-On** and **Unlock target.*
 **Use this Input to switch the current target to the right.**
 
 #### <mark style="color:yellow;">**These four directional Inputs work together to let you manually move between available targets while Lock-On is active.**</mark>
+
+#### <mark style="color:blue;">**6- IN\_HIDE/SHOW UI**</mark>
+
+**Use this Input to hide/show the ui target.**
