@@ -11,6 +11,7 @@
 ## system logic
 
 * [How the Lock-On System Works](system-logic/how-the-lock-on-system-works.md)
+* [Helper Functions](system-logic/helper-functions.md)
 
 ## Lock-On component Settings
 
