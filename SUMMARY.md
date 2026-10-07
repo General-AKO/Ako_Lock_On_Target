@@ -1,6 +1,7 @@
 # Table of contents
 
-* [ako Lock On Target](README.md)
+* [🎯 ako Lock On Target](README.md)
+* [📁 Example Content](example-content.md)
 
 ## Setting Up the PLUGIN
 
@@ -9,7 +10,7 @@
 
 ## system logic
 
-* [Page 3](system-logic/page-3.md)
+* [How the Lock-On System Works](system-logic/how-the-lock-on-system-works.md)
 
 ## Lock-On component Settings
 
