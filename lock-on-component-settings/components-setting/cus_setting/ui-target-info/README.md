@@ -1,3 +1,7 @@
+---
+icon: window
+---
+
 # UI Target Info
 
 > <mark style="color:orange;">**Development Note:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">The Target UI system and its editor preview are still under development.</mark>&#x20;
@@ -10,11 +14,11 @@ The Data Asset is divided into several sections.
 
 ***
 
-## <mark style="color:$success;">Widget</mark>
+## <mark style="color:$success;">1- Widget</mark>
 
 The **Widget** section defines which type of Widget you want to use for the Target UI.
 
-#### <mark style="color:blue;">Widget Type</mark>
+#### <mark style="color:blue;">1-1- Widget Type</mark>
 
 There are two available Widget Types:
 
@@ -53,11 +57,11 @@ This allows you to control where the Status Widget appears around the main Targe
 
 ***
 
-## <mark style="color:$success;">UI Target Info</mark>
+## <mark style="color:$success;">2- UI Target Info</mark>
 
 The **UI Target Info** section controls how the Target UI is displayed and positioned.
 
-#### <mark style="color:blue;">UI Mode</mark>
+#### <mark style="color:blue;">2-1- UI Mode</mark>
 
 **Determines whether the Target UI is displayed as a&#x20;**<mark style="color:$success;">**normal screen UI**</mark>**&#x20;or as a&#x20;**<mark style="color:$success;">**World UI**</mark>**.**
 
@@ -123,7 +127,7 @@ When enabled, the Widget automatically rotates to face the player's view, making
 
 ***
 
-## <mark style="color:$success;">Status Elements</mark>
+## <mark style="color:$success;">3- Status Elements</mark>
 
 When **Widget Type** is set to **Status Widget**, an additional **Status Elements** section becomes available.
 

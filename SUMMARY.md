@@ -24,4 +24,5 @@
   * [cus\_setting](lock-on-component-settings/components-setting/cus_setting/README.md)
     * [Character Setting](lock-on-component-settings/components-setting/cus_setting/character-setting.md)
     * [General Setting](lock-on-component-settings/components-setting/cus_setting/general-setting.md)
-    * [UI Target Info](lock-on-component-settings/components-setting/cus_setting/ui-target-info.md)
+    * [UI Target Info](lock-on-component-settings/components-setting/cus_setting/ui-target-info/README.md)
+      * [Target UI & Widget Control](lock-on-component-settings/components-setting/cus_setting/ui-target-info/target-ui-and-widget-control.md)
