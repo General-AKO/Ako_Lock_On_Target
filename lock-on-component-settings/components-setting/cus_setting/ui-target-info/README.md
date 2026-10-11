@@ -10,6 +10,14 @@ The **UI Target Info** settings allow you to configure the UI that can be <mark 
 
 The UI is configured through a <mark style="color:green;">**Target UI Data Asset**</mark>. This Data Asset contains the information used to define the type of Widget, its appearance, position, and other supported UI settings.
 
+> #### <mark style="color:$warning;">⚠️ Warning:</mark> <mark style="color:$danger;">Close the Target UI Preview Before Switching Levels</mark>
+
+> <mark style="color:$danger;">Always close the</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">**Target UI Preview**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">when you finish using it, especially before switching between levels in the Unreal Editor.</mark> &#x20;
+>
+> \ <mark style="color:$danger;">The preview widgets can keep references to the previous level, preventing Unreal Engine from properly cleaning it up when you load another level. This may cause a</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">**World Memory Leaks**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">fatal error and crash the editor.</mark><br>
+>
+> <mark style="color:$danger;">**To avoid this issue, close the UI preview window before switching levels.**</mark>
+
 The Data Asset is divided into several sections.
 
 ***
